@@ -1,2 +1,2 @@
 <p>This is my Local Repo</p>
-<p>this i a new Local Repository (dropdown)</p>
+<p>this i a new Local Repository (button)</p>
